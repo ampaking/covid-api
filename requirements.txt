@@ -1,2 +1,4 @@
 Django>=4.1,<4.2
+djangorestframework
 psycopg>=3.0.15,<3.0.16
+requests
